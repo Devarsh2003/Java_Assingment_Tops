@@ -15,13 +15,13 @@ public class EvenOdd {
         // The modulo operator (%) returns the remainder of a division.
         if (num % 2 == 0) {
             // If the remainder is 0, the number is even
-            System.out.println(num + " is even.");
+            System.out.println(num + " number is even.");
         } else {
             // If the remainder is not 0, the number is odd
-            System.out.println(num + " is odd.");
+            System.out.println(num + " number is odd.");
         }
         
-        
+        // Close the scanner
         reader.close();
     }
 }
