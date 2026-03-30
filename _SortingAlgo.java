@@ -1,5 +1,5 @@
 import java.util.*;
-class Geeks {
+class _SortingAlgo {
     public static void main(String[] args) {
         
         // Array example

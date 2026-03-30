@@ -1,5 +1,5 @@
 import java.util.*;
-class Geeks {
+class ArrayBinarySearch {
     public static void main(String[] args) {
         
         List<Integer> list = Arrays.asList(2, 4, 6, 8, 10);
