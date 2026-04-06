@@ -10,3 +10,4 @@ class _Recursion {
         System.out.println(fact(5));
     }
 }
+// Output: 120
